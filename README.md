@@ -2,11 +2,11 @@
 
 ###
 
-<h2 align="left">MERN Stack Developer</h2>
+<h2 align="left">Software Developer</h2>
 
 ###
 
-<p align='left'>Passionate MERN Stack Developer focused on creating scalable and secure web applications. Strong skills in React.js, Node.js, Express.js, MongoDB, Socket.io, and practical experience through self-driven projects.</p>
+<p align='left'>Passionate Software Developer with experience building full-stack web applications using the MERN stack and currently specializing in Java and Spring Boot backend development. Familiar with RESTful APIs, databases, authentication, and real-time systems. Eager to build scalable, secure, and high-performance software solutions.</p>
 
 
 
@@ -33,6 +33,9 @@
 <p align="center">
   <!-- Languages -->
   <b>Languages:</b><br>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
